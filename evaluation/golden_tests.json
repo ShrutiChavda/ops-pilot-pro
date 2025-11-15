@@ -1,0 +1,8 @@
+[
+  {
+    "id": "case-001",
+    "description": "Simple demo: single slow step",
+    "expected_bottlenecks": ["review"],
+    "min_success": 0.7
+  }
+]
